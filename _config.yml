@@ -1,2 +1,4 @@
 name: RajashekarReddy, Ereddy
 markdown: kramdown
+gems:
+  - jemoji
