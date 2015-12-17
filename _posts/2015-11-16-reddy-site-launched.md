@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ereddy launches site"
+title: "Launced My WebPage"
 date: 2015-11-16
 ---
 
