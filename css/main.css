@@ -9,7 +9,10 @@ nav ul, footer ul {
     font-weight: bold;
     float: right;
 }
-
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
 a {
     text-decoration: none;
     color: #999;
@@ -29,6 +32,7 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    background: #3e5a87
     position: fixed;
     bottom: 0;
 }
