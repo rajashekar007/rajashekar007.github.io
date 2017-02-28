@@ -9,10 +9,7 @@ nav ul, footer ul {
     font-weight: bold;
     float: right;
 }
-nav ul li, footer ul li {
-    display: inline;
-    
-}
+
 a {
     text-decoration: none;
     color: #999;
